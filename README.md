@@ -9,7 +9,7 @@ How to run the program
 On linux, *gcc* is required for complining the C programs.  
 
 1. For installing *gcc*, use the following command -   
-*sudo apt-get install build-essentials*
+*sudo apt-get install build-essential*
 
 2. After installing, compile the program  
 *gcc hello-world.c*
